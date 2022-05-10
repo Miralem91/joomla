@@ -28,5 +28,8 @@
 
      $send = $mailer->Send();
  }
+<script type="javascript">
+    console.log('Sent');
+</script>
 
 ?>
